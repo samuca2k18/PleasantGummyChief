@@ -24,9 +24,18 @@ public class Main{
     //ConversaoBase t = new ConversaoBase();
     //t.Conversao();
 
-    CaractereParaNumero t = new CaractereParaNumero();
-    t.LetraAoNumero();
+    //CaractereParaNumero t = new CaractereParaNumero();
+    //t.LetraAoNumero();
 
+    //NumeroPrimo t = new NumeroPrimo();
+    //t.numeroPrimo();
+
+    //QuickSort t = new QuickSort();
+    //t.quickSort();
+
+    Mdc t = new Mdc();
+    t.mdc();
+    
     
   }
 
