@@ -30,11 +30,11 @@ public class Main{
     //NumeroPrimo t = new NumeroPrimo();
     //t.numeroPrimo();
 
-    //QuickSort t = new QuickSort();
-    //t.quickSort();
+    QuickSort t = new QuickSort();
+    t.quickSort();
 
-    Mdc t = new Mdc();
-    t.mdc();
+    //Mdc t = new Mdc();
+    //t.mdc();
     
     
   }
